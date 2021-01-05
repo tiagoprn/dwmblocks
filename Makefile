@@ -1,6 +1,5 @@
 .POSIX:
 
-PREFIX = /usr/local
 CC = gcc
 
 dwmblocks: dwmblocks.o
