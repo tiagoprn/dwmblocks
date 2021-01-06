@@ -7,10 +7,10 @@ static const Block blocks[] = {
 	/* {"|",	"sb-price btc Bitcoin 💰",				9000,	21}, */
 	{"|",	"sb-memory",	10,	14},
 	{"|",	"sb-cpu",		10,	18},
-	{"|",	"sb-forecast",	3600,	5},
 	{"|",	"sb-nettraf",	10,	16},
 	{"|",	"sb-volume",	0,	10},
 	{"|",	"sb-battery",	30,	1},
+	{"|",	"sb-forecast",	3600,	5},
 	{"|",	"sb-moonphase",	18000,	17},
 	{"|",	"sb-clock",	1,	1},
 	{"|",	"sb-help-icon",	1,	15},
