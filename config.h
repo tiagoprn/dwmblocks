@@ -1,6 +1,7 @@
 //Modify this file to change what commands output to your statusbar, and recompile using the make command.
 static const Block blocks[] = {
 	/*{Icon, Command, Update Interval, Update Signal}*/
+	{" " , "sb-dunst-status", 1  , 1}  ,
 	{" " , "sb-kbdleds"     , 1  , 1}  ,
 	{" " , "sb-temperature" , 5  , 1}  ,
 	{" " , "sb-loadavg"     , 10 , 1}  ,
